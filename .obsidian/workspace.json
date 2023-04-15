@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "686308fcaf80b3d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a66ad84c125e1ba",
+        "type": "tabs",
+        "dimension": 15.724946695095948,
+        "children": [
+          {
+            "id": "b881d0395e8ca935",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "回过头重新看渲染管线.md"
+              }
+            },
+            "group": "dc08f131486a68c9"
+          },
+          {
+            "id": "4e14d71a1b703d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "回过头重新看渲染管线.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "dc08f131486a68c9"
+          }
+        ]
+      },
+      {
+        "id": "e09d87681cc0010f",
+        "type": "tabs",
+        "dimension": 84.27505330490405,
+        "children": [
+          {
+            "id": "ef811710e96028aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "回过头重新看渲染管线.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f975bef6134207ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a439739b27994b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff0059c025dbe01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "709e5674338b5993",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a99c94f2f5082d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5d91be7e597fd25a",
+    "type": "split",
+    "children": [
+      {
+        "id": "65febd21658636cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73483aa4a9ef7d10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "回过头重新看渲染管线.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e151423e51456dcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "回过头重新看渲染管线.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a72f7b7fc8929974",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51102cc25f934baf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "回过头重新看渲染管线.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5ff0059c025dbe01",
+  "lastOpenFiles": [
+    "static.md",
+    "回过头重新看渲染管线.md",
+    "static/RenderingPipeline.png",
+    "static/RenderingPipeline.png.crdownload",
+    "static"
+  ]
+}
