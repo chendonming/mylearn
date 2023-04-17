@@ -17,20 +17,7 @@
                 "file": "回过头重新看渲染管线.md"
               }
             },
-            "group": "dc08f131486a68c9"
-          },
-          {
-            "id": "4e14d71a1b703d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "回过头重新看渲染管线.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "dc08f131486a68c9"
+            "group": "fcbedbabe1ddd37f"
           }
         ]
       },
@@ -49,7 +36,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "fcbedbabe1ddd37f"
           }
         ]
       }
@@ -181,6 +169,7 @@
   },
   "active": "ef811710e96028aa",
   "lastOpenFiles": [
+    "AI 提示词.md",
     "回过头重新看渲染管线.md",
     "static.md",
     "static/RenderingPipeline.png",
