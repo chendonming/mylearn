@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2a4dcb20ff66379b",
+        "id": "206b00323a966a20",
         "type": "tabs",
         "children": [
           {
-            "id": "87a98eab540b5595",
+            "id": "80684e155616a335",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nginx常用运维配置.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx常用运维配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx常用运维配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nginx常用运维配置.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,16 +138,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "87a98eab540b5595",
+  "active": "5ff0059c025dbe01",
   "lastOpenFiles": [
-    "Nginx常用运维配置.md",
+    "webgl/回过头重新看渲染管线.md",
+    "static/RenderingPipeline.png",
+    "运维/Nginx常用运维配置.md",
     "运维",
     "webgl/回过头重新谈矩阵.md",
     "webgl",
-    "webgl/回过头重新看渲染管线.md",
     "AI 提示词.md",
     "static.md",
-    "static/RenderingPipeline.png",
     "static/RenderingPipeline.png.crdownload",
     "static"
   ]
