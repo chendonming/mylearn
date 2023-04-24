@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1a66ad84c125e1ba",
+        "id": "2a4dcb20ff66379b",
         "type": "tabs",
-        "dimension": 15.724946695095948,
         "children": [
           {
-            "id": "b881d0395e8ca935",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "回过头重新看渲染管线.md"
-              }
-            },
-            "group": "fcbedbabe1ddd37f"
-          }
-        ]
-      },
-      {
-        "id": "e09d87681cc0010f",
-        "type": "tabs",
-        "dimension": 84.27505330490405,
-        "children": [
-          {
-            "id": "ef811710e96028aa",
+            "id": "87a98eab540b5595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "回过头重新看渲染管线.md",
+                "file": "Nginx常用运维配置.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "fcbedbabe1ddd37f"
+            }
           }
         ]
       }
@@ -89,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5d91be7e597fd25a",
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "回过头重新看渲染管线.md",
+                "file": "Nginx常用运维配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "回过头重新看渲染管线.md",
+                "file": "Nginx常用运维配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "回过头重新看渲染管线.md"
+                "file": "Nginx常用运维配置.md"
               }
             }
           }
@@ -167,10 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ef811710e96028aa",
+  "active": "87a98eab540b5595",
   "lastOpenFiles": [
+    "Nginx常用运维配置.md",
+    "运维",
+    "webgl/回过头重新谈矩阵.md",
+    "webgl",
+    "webgl/回过头重新看渲染管线.md",
     "AI 提示词.md",
-    "回过头重新看渲染管线.md",
     "static.md",
     "static/RenderingPipeline.png",
     "static/RenderingPipeline.png.crdownload",
