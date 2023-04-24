@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "12010ff5f1ecfa14",
+        "id": "065e7cb7b842f5e4",
         "type": "tabs",
         "children": [
           {
-            "id": "39859e0108547a12",
+            "id": "47609f3705afa6e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webgl/回过头重新看渲染管线.md",
-                "mode": "source",
+                "file": "前端/前端跨域机制调查.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webgl/回过头重新看渲染管线.md",
+                "file": "前端/前端跨域机制调查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "webgl/回过头重新看渲染管线.md",
+                "file": "前端/前端跨域机制调查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webgl/回过头重新看渲染管线.md"
+                "file": "前端/前端跨域机制调查.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39859e0108547a12",
+  "active": "47609f3705afa6e3",
   "lastOpenFiles": [
+    "前端/前端跨域机制调查.md",
+    "前端",
     "运维/Nginx常用运维配置.md",
-    "static/RenderingPipeline.png",
     "webgl/回过头重新看渲染管线.md",
+    "static/RenderingPipeline.png",
     "运维",
     "webgl/回过头重新谈矩阵.md",
     "webgl",
