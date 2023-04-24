@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "206b00323a966a20",
+        "id": "12010ff5f1ecfa14",
         "type": "tabs",
         "children": [
           {
-            "id": "80684e155616a335",
+            "id": "39859e0108547a12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "webgl/回过头重新看渲染管线.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "webgl/回过头重新看渲染管线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "webgl/回过头重新看渲染管线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "webgl/回过头重新看渲染管线.md"
+              }
             }
           }
         ]
@@ -138,11 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ff0059c025dbe01",
+  "active": "39859e0108547a12",
   "lastOpenFiles": [
-    "webgl/回过头重新看渲染管线.md",
-    "static/RenderingPipeline.png",
     "运维/Nginx常用运维配置.md",
+    "static/RenderingPipeline.png",
+    "webgl/回过头重新看渲染管线.md",
     "运维",
     "webgl/回过头重新谈矩阵.md",
     "webgl",
