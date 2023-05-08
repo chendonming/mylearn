@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "065e7cb7b842f5e4",
+        "id": "367206fc81ebee8e",
         "type": "tabs",
         "children": [
           {
-            "id": "47609f3705afa6e3",
+            "id": "2c0d60eda835096f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "前端/前端跨域机制调查.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3c519f5f757a3cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/stream api调研.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7a14c1391dbc0a24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/前端跨域机制调查.md",
+                "file": "前端/stream api调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/前端跨域机制调查.md",
+                "file": "前端/stream api调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/前端跨域机制调查.md"
+                "file": "前端/stream api调研.md"
               }
             }
           }
@@ -146,17 +167,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47609f3705afa6e3",
+  "active": "e3c519f5f757a3cd",
   "lastOpenFiles": [
     "前端/前端跨域机制调查.md",
-    "前端",
+    "前端/stream api调研.md",
+    "webgl/回过头重新谈矩阵.md",
     "运维/Nginx常用运维配置.md",
+    "AI 提示词.md",
     "webgl/回过头重新看渲染管线.md",
     "static/RenderingPipeline.png",
+    "前端",
     "运维",
-    "webgl/回过头重新谈矩阵.md",
     "webgl",
-    "AI 提示词.md",
     "static.md",
     "static/RenderingPipeline.png.crdownload",
     "static"
