@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ad67f3f543c9c2ac",
+        "id": "6f3e37a8552b34ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8547f77bd190d3e5",
+            "id": "15830621a7290dad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "前端/js案例函数.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/基础算法实例.md",
+                "file": "前端/js案例函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/基础算法实例.md",
+                "file": "前端/js案例函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/基础算法实例.md"
+                "file": "前端/js案例函数.md"
               }
             }
           }
@@ -150,23 +154,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ff0059c025dbe01",
+  "active": "15830621a7290dad",
   "lastOpenFiles": [
-    "前端/前端跨域机制调查.md",
     "前端/前端主流函数、操作方法性能调查.md",
+    "前端/基础算法实例.md",
+    "前端/前端跨域机制调查.md",
+    "前端/js案例函数.md",
+    "webgl/后端到前端  三维模型数据设计.md",
+    "webgl/回过头重新看渲染管线.md",
     "webGPU/WebGPU.md",
     "AI 提示词.md",
-    "webgl/THREEJS和Cesium融合.md",
-    "webgl/Opengl方法规范细节.md",
-    "webgl/基础树实现.md",
-    "webgl/基础三维功能调研.md",
-    "webgl/回过头重新看渲染管线.md",
-    "webgl/后端到前端  三维模型数据设计.md",
-    "运维/Nginx常用运维配置.md",
+    "汉语/文字的力量.md",
     "前端/websocket原理.md",
     "前端/stream api调研.md",
-    "前端/基础算法实例.md",
+    "运维/Nginx常用运维配置.md",
+    "软考高级架构师/计算机基础.md",
+    "webgl/Opengl方法规范细节.md",
+    "webgl/THREEJS和Cesium融合.md",
+    "webgl/基础树实现.md",
     "webgl/回过头重新谈矩阵.md",
+    "2023-07-25.md",
+    "webgl/基础三维功能调研.md",
     "static/RenderingPipeline.png",
     "static/dp草图.drawio.png",
     "前端/算法.md",
