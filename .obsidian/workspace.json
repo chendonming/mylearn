@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f3e37a8552b34ff",
+        "id": "5c0d8742da83cfe5",
         "type": "tabs",
         "children": [
           {
-            "id": "15830621a7290dad",
+            "id": "784f0fed5b792e06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/js案例函数.md",
+                "file": "webgl/SSAO空间环境遮蔽实现.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/js案例函数.md",
+                "file": "webgl/SSAO空间环境遮蔽实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/js案例函数.md",
+                "file": "webgl/SSAO空间环境遮蔽实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/js案例函数.md"
+                "file": "webgl/SSAO空间环境遮蔽实现.md"
               }
             }
           }
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,16 +154,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "15830621a7290dad",
+  "active": "784f0fed5b792e06",
   "lastOpenFiles": [
+    "webgl/SSAO空间环境遮蔽实现.md",
+    "webgl/CSM级联阴影源码分析.md",
+    "AI 提示词.md",
+    "前端/js案例函数.md",
     "前端/前端主流函数、操作方法性能调查.md",
     "前端/基础算法实例.md",
     "前端/前端跨域机制调查.md",
-    "前端/js案例函数.md",
     "webgl/后端到前端  三维模型数据设计.md",
     "webgl/回过头重新看渲染管线.md",
     "webGPU/WebGPU.md",
-    "AI 提示词.md",
     "汉语/文字的力量.md",
     "前端/websocket原理.md",
     "前端/stream api调研.md",
