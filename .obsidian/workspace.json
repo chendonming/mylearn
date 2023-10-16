@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5c0d8742da83cfe5",
+        "id": "24444150cc664ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "784f0fed5b792e06",
+            "id": "22a027256a03e164",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a1d0fc9bd03ff50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webgl/SSAO空间环境遮蔽实现.md",
+                "file": "技术验证调研/移动端本地搭建bimwin调研.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webgl/SSAO空间环境遮蔽实现.md",
+                "file": "技术验证调研/移动端本地搭建bimwin调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "webgl/SSAO空间环境遮蔽实现.md",
+                "file": "技术验证调研/移动端本地搭建bimwin调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webgl/SSAO空间环境遮蔽实现.md"
+                "file": "技术验证调研/移动端本地搭建bimwin调研.md"
               }
             }
           }
@@ -142,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 218.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,23 +164,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "784f0fed5b792e06",
+  "active": "1a1d0fc9bd03ff50",
   "lastOpenFiles": [
+    "技术验证调研/移动端本地搭建bimwin调研.md",
+    "技术验证调研",
+    "前端/js案例函数.md",
+    "前端/基础算法实例.md",
+    "前端/前端跨域机制调查.md",
+    "前端/前端主流函数、操作方法性能调查.md",
+    "前端/三维架构调研.md",
+    "webgl/后端到前端  三维模型数据设计.md",
+    "运维/Nginx常用运维配置.md",
+    "软考高级架构师/计算机基础.md",
+    "前端/websocket原理.md",
+    "前端/webpack示例.md",
+    "前端/stream api调研.md",
+    "汉语/文字的力量.md",
+    "bimwin版本合并方案.md",
     "webgl/SSAO空间环境遮蔽实现.md",
     "webgl/CSM级联阴影源码分析.md",
     "AI 提示词.md",
-    "前端/js案例函数.md",
-    "前端/前端主流函数、操作方法性能调查.md",
-    "前端/基础算法实例.md",
-    "前端/前端跨域机制调查.md",
-    "webgl/后端到前端  三维模型数据设计.md",
     "webgl/回过头重新看渲染管线.md",
     "webGPU/WebGPU.md",
-    "汉语/文字的力量.md",
-    "前端/websocket原理.md",
-    "前端/stream api调研.md",
-    "运维/Nginx常用运维配置.md",
-    "软考高级架构师/计算机基础.md",
     "webgl/Opengl方法规范细节.md",
     "webgl/THREEJS和Cesium融合.md",
     "webgl/基础树实现.md",
@@ -181,13 +196,10 @@
     "static/dp草图.drawio.png",
     "前端/算法.md",
     "static/1.png",
-    "前端/滑动窗口算法.md",
-    "未命名",
     "webGPU",
     "前端",
     "运维",
     "webgl",
-    "static.md",
     "static/RenderingPipeline.png.crdownload",
     "static"
   ]

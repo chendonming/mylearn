@@ -96,3 +96,24 @@ public getBoxCorners(box: THREE.Box3) {
     return boxVertices
 }
 ```
+
+# RGBA和十六进制互相转化
+```js
+function hexToRGBA(hex: string, alpha?: number) {
+  // 去掉可能包含的 "#" 符号
+  hex = hex.replace(/^#/, '');
+
+  // 将十六进制颜色分解成R、G、B三个部分
+  let r = parseInt(hex.substring(0, 2), 16);
+  let g = parseInt(hex.substring(2, 4), 16);
+  let b = parseInt(hex.substring(4, 6), 16);
+
+  // 如果提供了alpha值，则将其应用
+  if (typeof alpha === 'number' && alpha >= 0 && alpha <= 1) {
+    return `rgba(${r},${g},${b},${alpha})`;
+  } else {
+    // 如果没有提供alpha值，默认为1（不透明）
+    return `rgb(${r},${g},${b})`;
+  }
+}
+```
